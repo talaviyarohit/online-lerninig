@@ -1,0 +1,19 @@
+.width-12{
+  height: 100px !important;
+}
+.height-title{
+  height: 45px !important;
+}
+body{
+  background-color: bisque !important;
+}
+.navbar{
+  background-color: #de4747 !important;
+  color: aliceblue !important;
+}
+.white{
+  color: aliceblue !important;
+}
+.cardbody{
+  background-color: #b6acac !important;
+}
